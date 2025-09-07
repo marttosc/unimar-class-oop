@@ -4,6 +4,8 @@
 
 ## Índice
 
+[⬅️ Voltar à página principal](README.md)
+
 - [Aula 01 - Fundamentos de Programação Orientada a Objetos](#aula-01---fundamentos-de-programação-orientada-a-objetos)
   - [Índice](#índice)
   - [Paradigmas de Programação](#paradigmas-de-programação)

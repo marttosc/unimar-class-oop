@@ -4,6 +4,8 @@
 
 ## Índice
 
+[⬅️ Voltar à página principal](README.md)
+
 - [Aula 00 - Apresentação](#aula-00---apresentação)
   - [Índice](#índice)
   - [Sobre mim](#sobre-mim)
@@ -26,17 +28,14 @@
 
 **Prof. Me. Gustavo Marttos.**
 
-- Bacharel em Sistemas de Informação pelo Centro Universitário Eurípides de
-  Marília (Univem), 2018.
-- Mestre em Ciência da Informação pela Universidade Estadual Paulista "Júlio de
-  Mesquita Filho" (Unesp), 2020.
+- Bacharel em Sistemas de Informação pelo Centro Universitário Eurípides de Marília (Univem), 2018.
+- Mestre em Ciência da Informação pela Universidade Estadual Paulista "Júlio de Mesquita Filho" (Unesp), 2020.
 
 ### Contato
 
-Você pode me contatar por [e-mail](mailto:gustavomarttos@unimar.br)
-(preferencial) ou via Moodle.
+Você pode me contatar por [e-mail](mailto:gustavomarttos@unimar.br) (preferencial) ou via Moodle.
 
-Outras formas de contato: [LinkedIn](https://www.linkedin.com/in/marttosc/).
+Também estou no [LinkedIn](https://www.linkedin.com/in/marttosc/).
 
 ---
 
@@ -52,8 +51,7 @@ Outras formas de contato: [LinkedIn](https://www.linkedin.com/in/marttosc/).
 | Interfaces                            |      8 horas      |
 | Avaliações\*                          |      8 horas      |
 
-> _\* A carga horária envolvida para avaliações engloba as duas regimentais (P1
-> e P2)._
+> _\* A carga horária envolvida para avaliações engloba as duas regimentais (P1 e P2)._
 
 ---
 
