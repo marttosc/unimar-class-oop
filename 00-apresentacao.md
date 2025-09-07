@@ -73,6 +73,18 @@ A avaliação consiste em duas notas semestrais, ambas com o valor de zero a dez
 - A **P1** ocorrerá entre 22/09 a 30/09/2025 (projeto parcial).
 - A **P2** ocorrerá entre 24/11 a 03/12/2025 (projeto final).
 
+Você estará de exame, se:
+
+$$
+4 \leq \frac{\text{P1} + \text{P2}}{2} < 7
+$$
+
+Uma vez de exame, o critério para aprovação passa a ser:
+
+$$
+\left( \frac{\text{P1} + \text{P2}}{2} + \text{NotaExame} \right) \geq 10
+$$
+
 ---
 
 ## Revisão
