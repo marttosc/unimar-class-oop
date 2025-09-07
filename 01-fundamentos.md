@@ -130,7 +130,7 @@ da forma com a massa ser colocada.
 ### Ok, mas... E o paradigma de orientação a objetos?
 
 <p align="center">
-    <img src="assets/01/patrick.jpeg" alt="Patrick se perguntando sobre o paradigma que está faltando">
+    <img src="assets/01/img/patrick.jpeg" alt="Patrick se perguntando sobre o paradigma que está faltando">
 </p>
 
 Vamos trabalhar sobre isso em um tópico específico, afinal este é o objeto de estudo da disciplina.
@@ -190,7 +190,7 @@ mais simples, eficiente e fácil de manter.
 Considere a imagem de Silvio Basílio, o lêmure. **Apenas a imagem** deverá ser suficiente para compreender o domínio e
 identificar os atributos e métodos.
 
-<img src="assets/01/lemure.jpg" alt="Silvio Basílio, o lêmure" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<img src="assets/01/img/lemure.jpg" alt="Silvio Basílio, o lêmure" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
 Os possíveis **atributos** que Silvio Basílio pode ter:
 
@@ -209,7 +209,7 @@ domínio, estes três atributos são desnecessários.
 Considere a imagem do casal de papagaios Sebastião e Deise. **Apenas a imagem** servirá para compreensão do domínio e
 identificação de atributos e métodos.
 
-<img src="assets/01/papagaio.jpg" alt="Silvio Basílio, o lêmure" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
+<img src="assets/01/img/papagaio.jpg" alt="Silvio Basílio, o lêmure" style="max-width: 100%; height: auto; display: block; margin: 0 auto;">
 
 Papagaios, além de possuírem atributos diferentes de um lêmure (embora alguns sejam semelhantes, como por exemplo
 `cor dos olhos`), possuem **métodos** como:
