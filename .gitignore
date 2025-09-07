@@ -1,2 +1,14 @@
 node_modules/
 .gh-pages/
+common/
+.DS_Store
+Thumbs.db
+*.log
+.env
+dist/
+build/
+.idea/
+.vscode/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
