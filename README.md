@@ -13,8 +13,12 @@
 - [02 - Objetos, classes, atributos e métodos](docs/02-objetos.md)
 - [03 - Princípio da Herança](docs/03-heranca.md)
 - [04 - Princípio da Abstração](docs/04-abstracao.md)
+- **Avaliações**
+  - [Instruções para a P1](docs/assessments/p1.md)
 
-### Observações
+---
+
+## Observações
 
 Todo o material complementar, como atividades e arquivos criados e utilizados em laboratório encontram-se única e
 exclusivamente no Moodle.
