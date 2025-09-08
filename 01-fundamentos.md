@@ -1,4 +1,4 @@
-# Aula 01 - Fundamentos de Programação Orientada a Objetos
+# Fundamentos de Programação Orientada a Objetos
 
 ---
 
@@ -6,7 +6,7 @@
 
 [⬅️ Voltar à página principal](README.md)
 
-- [Aula 01 - Fundamentos de Programação Orientada a Objetos](#aula-01---fundamentos-de-programação-orientada-a-objetos)
+- [Fundamentos de Programação Orientada a Objetos](#fundamentos-de-programação-orientada-a-objetos)
   - [Índice](#índice)
   - [Paradigmas de Programação](#paradigmas-de-programação)
     - [Visão geral sobre o paradigma Imperativo](#visão-geral-sobre-o-paradigma-imperativo)

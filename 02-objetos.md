@@ -1,4 +1,4 @@
-# Aula 02 - Objetos, classes, atributos e métodos
+# Objetos, classes, atributos e métodos
 
 Este arquivo aborda os conceitos fundamentais da programação orientada a objetos, incluindo a definição de objetos,
 classes, atributos, métodos, instâncias, construtores e modificadores de visibilidade.
@@ -20,7 +20,7 @@ atributos e métodos por meio de modificadores de visibilidade.
 
 [⬅️ Voltar à página principal](README.md)
 
-- [Aula 02 - Objetos, classes, atributos e métodos](#aula-02---objetos-classes-atributos-e-métodos)
+- [Objetos, classes, atributos e métodos](#objetos-classes-atributos-e-métodos)
   - [Índice](#índice)
   - [Tudo e todos são objetos, inclusive vocês.](#tudo-e-todos-são-objetos-inclusive-vocês)
   - [Classes](#classes)

@@ -1,4 +1,4 @@
-# Aula 00 - Apresentação
+# Apresentação
 
 ---
 
@@ -6,7 +6,7 @@
 
 [⬅️ Voltar à página principal](README.md)
 
-- [Aula 00 - Apresentação](#aula-00---apresentação)
+- [Apresentação](#apresentação)
   - [Índice](#índice)
   - [Sobre mim](#sobre-mim)
     - [Formação](#formação)
