@@ -12,6 +12,7 @@
 - [01 - Fundamentos de Programação Orientada a Objetos](docs/01-fundamentos.md)
 - [02 - Objetos, classes, atributos e métodos](docs/02-objetos.md)
 - [03 - Princípio da Herança](docs/03-heranca.md)
+- [04 - Princípio da Abstração](docs/04-abstracao.md)
 
 ### Observações
 
