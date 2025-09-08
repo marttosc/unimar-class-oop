@@ -26,7 +26,6 @@ Descreva de forma objetiva e clara como o(s) integrante(s) deixou(aram) de contr
 
 - [ ] Prints de conversas / registros de ausência
 - [ ] Comparação de partes do trabalho
-- [ ] Declaração assinada pela maioria do grupo
 - [ ] Outros (informar quais)
 
 ## Declaração do delator
