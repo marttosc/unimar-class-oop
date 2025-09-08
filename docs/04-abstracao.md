@@ -1,5 +1,17 @@
 # Princípio da Abstração
 
+Este arquivo aborda o Princípio da Abstração explicando seu conceito, importância e distinção em relação ao Princípio da
+Herança.
+
+O conteúdo destaca como a abstração permite focar apenas nos aspectos relevantes de um problema, facilitando o
+desenvolvimento, manutenção e reutilização de código.
+
+Também inclui exemplos práticos em Python e PHP para ilustrar a aplicação do princípio.
+
+<p align="right">
+    <em>O resumo acima foi gerado por IA.</em>
+</p>
+
 ---
 
 ## Índice
