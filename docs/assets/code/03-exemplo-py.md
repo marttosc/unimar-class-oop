@@ -1,6 +1,6 @@
 # Exemplo de código com Herança em Python
 
-[⬅️ Voltar para a página de Herança](../../../03-heranca.md)
+[⬅️ Voltar para a página de Herança](../../03-heranca.md)
 
 ```python
 """Considere que toda conta bancária deve ter um titular e um saldo, além de permitir depósito.

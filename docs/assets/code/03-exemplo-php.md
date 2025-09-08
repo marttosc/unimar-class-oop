@@ -1,6 +1,6 @@
 # Exemplo de código com Herança em PHP
 
-[⬅️ Voltar para a página de Herança](../../../03-heranca.md)
+[⬅️ Voltar para a página de Herança](../../03-heranca.md)
 
 ```php
 <?php

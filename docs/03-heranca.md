@@ -17,7 +17,7 @@ objetos.
 
 ## Índice
 
-[⬅️ Voltar à página principal](README.md)
+[⬅️ Voltar à página principal](../README.md)
 
 - [Princípio da Herança](#princípio-da-herança)
   - [Índice](#índice)
@@ -58,7 +58,7 @@ No contexto semântico, a preposição inversa também ocorre, porém por meio d
 > Um Mamífero **pode ser** um Ser Humano.
 
 <p align="center" style="background: #ffffff;">
-    <img src="assets/03/img/herancasemantica.png" alt="Estrutura semântica da herança">
+    <img src="assets/image/03-herancasemantica.png" alt="Estrutura semântica da herança">
 </p>
 
 ---
@@ -125,7 +125,7 @@ determinados contextos.
 Um dos problemas clássicos de **ambiguidade e complexidade** associados à herança múltipla é o **problema do diamante**:
 
 <p align="center">
-    <img src="assets/03/img/herancadiamante.png" alt="Problema do Diamante" style="width: 50%; height: auto;">
+    <img src="assets/image/03-herancadiamante.png" alt="Problema do Diamante" style="width: 50%; height: auto;">
 </p>
 
 As classes B e C herdam de A, ou seja, são mais especializadas. Destas duas subclasses é gerada uma nova classe, D, que
@@ -145,8 +145,8 @@ alterado.
 
 ### Exemplo em Python
 
-[Ver código completo aqui](assets/03/code/exemplo-py.md).
+[Ver código completo aqui](assets/code/03-exemplo-py.md).
 
 ### Exemplo em PHP
 
-[Ver código completo aqui](assets/03/code/exemplo-php.md).
+[Ver código completo aqui](assets/code/03-exemplo-php.md).

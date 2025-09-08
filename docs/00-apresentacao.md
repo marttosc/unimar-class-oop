@@ -4,7 +4,7 @@
 
 ## Índice
 
-[⬅️ Voltar à página principal](README.md)
+[⬅️ Voltar à página principal](../README.md)
 
 - [Apresentação](#apresentação)
   - [Índice](#índice)

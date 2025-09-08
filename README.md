@@ -8,10 +8,10 @@
 
 ## Índice
 
-- [00 - Apresentação](00-apresentacao.md)
-- [01 - Fundamentos de Programação Orientada a Objetos](01-fundamentos.md)
-- [02 - Objetos, classes, atributos e métodos](02-objetos.md)
-- [03 - Princípio da Herança](03-heranca.md)
+- [00 - Apresentação](docs/00-apresentacao.md)
+- [01 - Fundamentos de Programação Orientada a Objetos](docs/01-fundamentos.md)
+- [02 - Objetos, classes, atributos e métodos](docs/02-objetos.md)
+- [03 - Princípio da Herança](docs/03-heranca.md)
 
 ### Observações
 

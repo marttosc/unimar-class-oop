@@ -18,7 +18,7 @@ atributos e métodos por meio de modificadores de visibilidade.
 
 ## Índice
 
-[⬅️ Voltar à página principal](README.md)
+[⬅️ Voltar à página principal](../README.md)
 
 - [Objetos, classes, atributos e métodos](#objetos-classes-atributos-e-métodos)
   - [Índice](#índice)
@@ -42,7 +42,7 @@ atributos e métodos por meio de modificadores de visibilidade.
 ## Tudo e todos são objetos, inclusive vocês.
 
 <p align="center">
-    <img src="assets/02/img/batman.gif" alt="Batman pensando">
+    <img src="assets/image/02-batman.gif" alt="Batman pensando">
 </p>
 
 Fica o questionamento: como trazer esses conceitos para a computação?
@@ -66,8 +66,8 @@ concreta\*. Ela serve como um molde contendo todos os atributos e métodos a res
 Observe nas imagens a seguir, respectivamente: **Olegário, o cane corso**, e **Carlito, o caramelo**.
 
 <p align="center">
-    <img src="assets/02/img/canecorso.jpg" alt="Olegário, o cane corso" height="250" style="display:inline-block; margin-right:20px; object-fit:contain;">
-    <img src="assets/02/img/caramelo.jpg" alt="Carlito, o caramelo" height="250" style="display:inline-block; object-fit:contain;">
+    <img src="assets/image/02-canecorso.jpg" alt="Olegário, o cane corso" height="250" style="display:inline-block; margin-right:20px; object-fit:contain;">
+    <img src="assets/image/02-caramelo.jpg" alt="Carlito, o caramelo" height="250" style="display:inline-block; object-fit:contain;">
 </p>
 
 Olegário e Carlito são **objetos** da classe **Cachorro**. Possuem os mesmos métodos, afinal eles são inerentes à
@@ -81,8 +81,8 @@ ser um cachorro.
 Agora observe **Vanusa** e **Maico**, os gatos, respectivamente.
 
 <p align="center">
-    <img src="assets/02/img/gatoheterocromia.jpeg" alt="Vanusa, a gata" height="250" style="display:inline-block; margin-right:20px; object-fit:contain;">
-    <img src="assets/02/img/gatolaranja.jpg" alt="Maico, o gato" height="250" style="display:inline-block; object-fit:contain;">
+    <img src="assets/image/02-gatoheterocromia.jpeg" alt="Vanusa, a gata" height="250" style="display:inline-block; margin-right:20px; object-fit:contain;">
+    <img src="assets/image/02-gatolaranja.jpg" alt="Maico, o gato" height="250" style="display:inline-block; object-fit:contain;">
 </p>
 
 Vanusa e Maico são **objetos** da classe **Gato**. Possuem os mesmos métodos, afinal eles são inerentes à classe, porém
