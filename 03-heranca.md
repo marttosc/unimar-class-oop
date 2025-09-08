@@ -17,6 +17,8 @@ objetos.
 
 ## Índice
 
+[⬅️ Voltar à página principal](README.md)
+
 - [Princípio da Herança](#princípio-da-herança)
   - [Índice](#índice)
   - [O que é?](#o-que-é)

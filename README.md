@@ -1,4 +1,4 @@
-## Programação Orientada a Objetos
+# Programação Orientada a Objetos
 
 **Curso:** Bacharelado em Ciência da Computação
 
