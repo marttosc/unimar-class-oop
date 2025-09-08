@@ -73,15 +73,15 @@ A avaliação consiste em duas notas semestrais, ambas com o valor de zero a dez
 
 Você estará de exame, se:
 
-```math
-4 \leq \frac{\text{P1} + \text{P2}}{2} < 7
-```
+<p align="center">
+    <img src="assets/image/00-criterioaprovacao.png" alt="Condição para estar de exame">
+</p>
 
 Uma vez de exame, o critério para aprovação passa a ser:
 
-```math
-\left( \frac{\text{P1} + \text{P2}}{2} + \text{NotaExame} \right) \geq 10
-```
+<p align="center">
+    <img src="assets/image/00-criterioexame.png" alt="Condição para estar de exame">
+</p>
 
 ---
 
