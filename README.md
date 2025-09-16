@@ -15,6 +15,9 @@
 - [04 - Princípio da Abstração](docs/04-abstracao.md)
 - **Avaliações**
   - [Instruções para a P1](docs/assessments/p1.md)
+- **Ferramentas**
+  - [Composer e PSR-4](docs/composer.md)
+  - [Excalidraw](https://excalidraw.com/)
 
 ---
 
